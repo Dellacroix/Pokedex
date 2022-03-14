@@ -10,7 +10,7 @@ main{
     background-image: url("../assets/imagens/wall.png");
     background-attachment: scroll;
     background-repeat: no-repeat;
-    background-size: auto;
+    background-size: cover;
     background-origin: content-box;
 
 }
